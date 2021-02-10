@@ -348,6 +348,13 @@ class: hide_logo
 </article>
 
 ---
+layout: false
+class: hide_logo
+
+background-image: url("images/HeTangata.jpg")
+background-size: contain
+
+---
 
 # Hot off the press!
 
