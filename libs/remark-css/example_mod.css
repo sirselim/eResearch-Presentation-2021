@@ -108,6 +108,11 @@ ul li { padding: 5px 0px; }
   }
 }
 
+.title-slide {
+  background-image: url(https://tinyurl.com/yhde6y9o);
+  background-size: cover;
+}
+
 .title-slide.remark-slide-content:before{
   position: absolute;
   content:url(images/esr_logo.png);
