@@ -344,6 +344,39 @@ class: hide_logo
 </article>
 
 ---
+class: hide_logo
+
+# The present!
+
+<article class="cf">
+    <div class="fl w-100 w-33-m w-50-l pa1">
+    <a class="db aspect-ratio aspect-ratio--1x1">
+      <span role="img" style="background-image:url(images/IMG_20210203_102006.jpg);" class="bg-center cover aspect-ratio--object"></span>
+    </a>
+  </div>
+  <div class="fl w-50 w-33-m w-25-l pa1">
+    <a class="db aspect-ratio aspect-ratio--1x1">
+      <span role="img" style="background-image:url(images/IMG_20210209_212836.jpg);" class="bg-center cover aspect-ratio--object"></span>
+    </a>
+  </div>
+  <div class="fl w-50 w-33-m w-25-l pa1">
+    <a class="db aspect-ratio aspect-ratio--1x1">
+      <span role="img" style="background-image:url(images/IMG_20210211_125758.jpg);" class="bg-center cover aspect-ratio--object"></span>
+    </a>
+  </div>
+  <div class="fl w-50 w-33-m w-25-l pa1">
+    <a class="db aspect-ratio aspect-ratio--1x1">
+      <span role="img" style="background-image:url(images/IMG_20210205_155440.jpg);" class="bg-center cover aspect-ratio--object"></span>
+    </a>
+  </div>
+  <div class="fl w-50 w-33-m w-25-l pa1">
+    <a class="db aspect-ratio aspect-ratio--1x1">
+      <span role="img" style="background-image:url(images/IMG_20210204_112338.jpg);" class="bg-center cover aspect-ratio--object"></span>
+    </a>
+  </div>
+</article>
+
+---
 layout: false
 class: hide_logo
 
